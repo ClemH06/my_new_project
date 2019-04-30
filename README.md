@@ -1,3 +1,3 @@
 # my_new_project
-My first try on github
-It is supposed to be funny but it's not so simple !!
+<h1>My first try on github</h1>
+<p>It is supposed to be funny but it's not so simple !!</p>
